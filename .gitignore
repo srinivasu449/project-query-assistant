@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+
+*.swp
+__pycache__
+.pytest_cache
+*.egg-info
+
+
+# Environments
+*/.env
+*/.venv
+.env/
+.env/*
+.env/bin/*
+.env/lib/*
+venv/
+
+dist
+
+# VS Code
+*/.vscode/*
+.vscode/*
+!.vscode/launch.json
+
+# embeddings
+*/code_index.bin
+
